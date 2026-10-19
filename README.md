@@ -24,3 +24,13 @@ Open `index.html` in any modern web browser, choose a difficulty, and start expl
 4. Choose your default branch and the **`/ (root)`** folder, then save.
 
 GitHub Pages will provide a URL for your published quiz after deployment finishes.
+
+## Screenshots 
+
+<img width="1917" height="1003" alt="Screenshot 2026-10-19 115107" src="https://github.com/user-attachments/assets/7d6a5d4f-9d86-4657-a3ff-253395bab8d5" />
+
+<img width="1917" height="1010" alt="Screenshot 2026-10-19 115118" src="https://github.com/user-attachments/assets/6f2dc1ab-4227-4ca2-906e-cb03b8241137" />
+
+<img width="1917" height="1012" alt="Screenshot 2026-10-19 115138" src="https://github.com/user-attachments/assets/bc755219-e998-4411-bba7-197641a7e7aa" />
+
+<img width="1917" height="1005" alt="Screenshot 2026-10-19 115203" src="https://github.com/user-attachments/assets/9711a63a-7dc4-4b70-a12a-ce3d53943dcd" />
